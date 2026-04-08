@@ -1,3 +1,6 @@
-# olá, eu sou um estudante de Sistemas de informação da USP
+# Bem-Vindo ao meu perfil!
 
 ## Sobre mim
+
+Sou estudante de Sistemas de Informação na Universidade de São Paulo e atualmente estou estudando lógica de programação na linguagem C 
+
