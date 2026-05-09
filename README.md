@@ -8,4 +8,4 @@ Sou estudante de Sistemas de Informação na Universidade de São Paulo e atualm
 
 ## 🛠️Linguagens e Ferramentas que tenho Contato:
 
-[![My Skills](https://skillicons.dev/icons?i=c,vscode,notion,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,vscode,notion,md,cpp,cs)](https://skillicons.dev)
