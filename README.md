@@ -21,16 +21,43 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=800&color=FFD60A&center=true&vCenter=true&width=800&lines=%22Algumas+palavras+sobre+mim+-%22;Um+estudante+de+Sistemas+de+Informação+da+USP+que+curte+computadores,+jogos+e+comunidade." alt="Sobre mim" />
 
-Sou estudante de Sistemas de Informação na Universidade de São Paulo e atualmente estou estudando lógica de programação na linguagem C 
-- Tenho interesse em explorar as diversas áreas da programação além de desenvolvimento web
-- Atualmente participando de entidades acadêmicas de gamedev e gestão de eventos e pessoas
+</div>
+
+---
+
+
+## 👨‍💻 Sobre mim
+
+```javascript
+const juanSouza = {
+  nome: "Juan Souza",
+  formacao: "Sistemas de Informação — Universidade de São Paulo (USP)",
+
+  atuacao: {
+    diretorioAcademico: ["Setor de TI", "Setor Acadêmico"],
+    comissoes: ["Comissão Organizadora de Sistemas de Informação"],
+    entidades: ["ConwayUSP (gamedev)"],
+  },
+
+  stack: {
+    linguagens: ["C#", "JavaScript", "Python"],
+    frameworks: [".NET", "Node.js"],
+  },
+
+  foco: "Desenvolvimento de software, colaboração em projetos estudantis e organização acadêmica",
+
+  contato: "https://www.linkedin.com/in/juan-souza",
+};
+
+console.log(juanSouza);
+```
+
+---
 
 
 </div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=600&color=1E90FF&center=true&vCenter=true&width=800&lines=🏛️+No+Diretório+Acadêmico:+setores+de+TI+e+Acadêmico;🗓️+Comissão+organizadora+de+Sistemas+de+Informação;🎮+Entidade+de+gamedev+ConwayUSP;🛠️+Trabalho+com+C%23,+JavaScript,+Python,+.NET+e+Node.js" alt="Atuação" />
 
 </div>
 
@@ -62,8 +89,9 @@ Sou estudante de Sistemas de Informação na Universidade de São Paulo e atualm
 [![LinkedIn](https://img.shields.io/badge/Me%20chame%20no-LinkedIn-1E90FF?style=flat-square&logo=linkedin&logoColor=FFD60A)](https://www.linkedin.com/in/juan-souza)
 [![GitHub](https://img.shields.io/badge/Veja%20meus%20projetos%20no-GitHub-FFD60A?style=flat-square&logo=github&logoColor=0A2540)](https://github.com/JuanSouza151)
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=800&color=FFD60A&center=true&vCenter=true&width=500&lines=Feito+com+💛+e+💙+por+Juan+Souza" alt="Rodapé" />
-
 </div>
+
+<div align="center">
+
+
+
