@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-Juan%20Souza-1E90FF?style=social&logo=linkedin&logoColor=1E90FF&link=https://www.linkedin.com/in/juan-souza-967438402)](https://www.linkedin.com/in/juan-souza)
+[![LinkedIn](https://img.shields.io/badge/-Juan%20Souza-1E90FF?style=social&logo=linkedin&logoColor=1E90FF&link=https://www.linkedin.com/in/juan-souza-967438402)](https://www.linkedin.com/in/juan-souza-967438402)
 [![GitHub](https://img.shields.io/badge/-JuanSouza151-FFD60A?style=social&logo=github&logoColor=0A2540&link=https://github.com/JuanSouza151)](https://github.com/JuanSouza151)
 
 </div>
